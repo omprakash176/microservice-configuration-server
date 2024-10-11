@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-defult
+    name: config-server
 eureka:
   client:
     fetch-registry: true
